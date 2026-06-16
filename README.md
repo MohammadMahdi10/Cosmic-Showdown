@@ -12,7 +12,7 @@ A 2D action fighting game where the player selects levels, battles enemies, coll
 
 - Collect coins to increase your total coin count.
 
--- Collect potions for health and speed boosts.
+- Collect potions for health and speed boosts.
 
 - Use the in-game shop to buy useful potions.
 
@@ -26,35 +26,35 @@ A 2D action fighting game where the player selects levels, battles enemies, coll
 
 ## Watch the video!
 
-Watch the video - Add your gameplay video link here.
+Watch the video - https://www.youtube.com/watch?v=hfcUo_NBVt8
 
 ## How to install the game
 
-Make sure you have Python installed. Python 3.13 is recommended.
+1. Make sure you have Python installed. Python 3.13 is recommended.
 
-Download the project ZIP file and extract it to a folder on your computer.
+2. Download the project ZIP file and extract it to a folder on your computer.
 
-Open PowerShell.
+3. Open PowerShell.
 
-Go into the extracted project folder. For example:
+4. Go into the extracted project folder. For example:
 
 ```powershell
 cd "C:\Users\shand\Downloads\NEA-20260616T130630Z-3-001\NEA"
 ```
 
-Install pygame:
+5. Install pygame:
 
 ```powershell
 py -3.13 -m pip install pygame
 ```
 
-If you are using Python 3.14 and pygame does not install, use pygame-ce instead:
+5. If you are using Python 3.14 and pygame does not install, use pygame-ce instead:
 
 ```powershell
 py -m pip install pygame-ce
 ```
 
-Run the game:
+6. Run the game:
 
 ```powershell
 py main.py

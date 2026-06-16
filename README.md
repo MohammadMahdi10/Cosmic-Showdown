@@ -6,23 +6,23 @@ A 2D action fighting game where the player selects levels, battles enemies, coll
 
 ## Features
 
-Classic 2D fighting and platform gameplay.
+- Classic 2D fighting and platform gameplay.
 
-Fight enemies across different levels.
+- Fight enemies across different levels.
 
-Collect coins to increase your total coin count.
+- Collect coins to increase your total coin count.
 
-Collect potions for health and speed boosts.
+-- Collect potions for health and speed boosts.
 
-Use the in-game shop to buy useful potions.
+- Use the in-game shop to buy useful potions.
 
-Gain experience by attacking and defeating enemies.
+- Gain experience by attacking and defeating enemies.
 
-Level up to increase player strength.
+- Level up to increase player strength.
 
-Unlock the boss level by completing earlier levels.
+- Unlock the boss level by completing earlier levels.
 
-Includes a main menu, level selector, settings screen, pause menu, shop, win screen, lose screen, and draw screen.
+- Includes a main menu, level selector, settings screen, pause menu, shop, win screen, lose screen, and draw screen.
 
 ## Watch the video!
 

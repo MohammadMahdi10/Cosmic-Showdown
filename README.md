@@ -62,11 +62,10 @@ py main.py
 
 ## Dependencies
 
-Must have Python installed.
+- Must have Python installed.
 
-Recommended Python version: Python 3.13.
+- Recommended Python version: Python 3.13.
 
-Must have pygame installed.
+- **Must have pygame installed.**
 
-If using Python 3.14, use pygame-ce instead of pygame.
-::: 
+- If using Python 3.14, use pygame-ce instead of pygame.
